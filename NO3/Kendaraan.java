@@ -27,5 +27,12 @@ public class Kendaraan {
          System.out.print("Plat nomor : ");
          plat = in.nextInt();
          
+         System.out.println("Hasil Data");
+         System.out.println("===========");
+         System.out.println("Merk mobil : "+merk);
+         System.out.println("Warna mobil : "+warna);
+         System.out.println("Besar CC mobil : "+cc+" CC");
+         System.out.println("Tahun keluar : "+tahun);
+         System.out.println("Plat nomor : "+plat);
         }    
 }

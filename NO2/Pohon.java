@@ -25,7 +25,7 @@ public class Pohon {
         tinggi = in.nextInt();                
     }
     void getNama(){
-        System.out.print(nama);     
+        System.out.println(nama);     
     }
     void getTinggi(){
         System.out.print(tinggi);

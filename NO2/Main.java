@@ -10,7 +10,6 @@ package NO2;
  * @author Dhimaz Nur Ramadhan
  */
 public class Main {
-    String Cemara,Kelapa;
    
     public static void main(String[]args){
           Pohon User = new Pohon();
